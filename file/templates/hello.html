@@ -1,0 +1,9 @@
+<!doctype html>
+<title>您好 Flask</title>
+{% if name == '马云' %}
+    <h1>您好 爸爸！</h1>
+{% else %}
+  <h1>您好 {{ name }}!</h1>
+
+<p><a href="/logout">退出</a></p>
+{% endif %}
