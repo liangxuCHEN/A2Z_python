@@ -22,6 +22,12 @@
 |正则表达式|chapter_16_regexp.ipynb|
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liangxuCHEN/A2Z_python.git/master)
+请使用**Jupyter-notebook**打开文档
+
+如需下载Jupyter-notebook，请到[!这里](https://www.anaconda.com/)
+
+如果不会使用，可以直接点击[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liangxuCHEN/A2Z_python.git/master)，可以在网页上启动Jupyter-notebook，首次启动需要等待比较长时间，请耐心等待，之后运行就比较快。
+
+
 
 
