@@ -28,6 +28,13 @@
 
 如果不会使用，可以直接点击[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/liangxuCHEN/A2Z_python.git/master)，可以在网页上启动Jupyter-notebook，首次启动需要等待比较长时间，请耐心等待，之后运行就比较快。
 
+## 更多学习资源
+
+1. 关注公众号 `旭哥聊科技`，回复`Python基础`，即可领取精心整理的全套课程代码。
+
+2. 还有定期的代码优化技巧分享，有专业的代码问题解答服务，为你的编程之路保驾护航~
+
+3. 添加微信号 `Louis_chen_IT`, 回复`cs入群`，一起学习，共同进步~
 
 
 
